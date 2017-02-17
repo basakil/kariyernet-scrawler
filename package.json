@@ -1,0 +1,37 @@
+{
+  "name": "kariyernet-scrawler",
+  "version": "0.0.0",
+  "description": "kariyer.net icin kullanisli scriptler.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basakil/kariyernet-scrawler.git"
+  },
+  "keywords": [
+    "kariyer.net",
+    "kariyernet",
+    "scrawler",
+    "kisayol",
+    "script",
+    "kullanisli"
+  ],
+  "author": "basakil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basakil/kariyernet-scrawler/issues"
+  },
+  "homepage": "https://github.com/basakil/kariyernet-scrawler#readme"
+}
