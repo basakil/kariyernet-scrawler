@@ -1,6 +1,6 @@
 {
   "name": "kariyernet-scrawler",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "kariyer.net icin kullanisli scriptler.",
   "main": "index.js",
   "directories": {
